@@ -1,5 +1,5 @@
-# Data-Analysis-CP610 Fall-2024 WLU
+# Data-Analysis-CP610 Fall-2024 WLU Assignments
 
-### This repo contains the complete working files of all three assingments and the final project
+### This repo contains the complete working files of all three assingments
 
 
